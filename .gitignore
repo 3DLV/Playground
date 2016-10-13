@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BitArray/BitArray.VC.VC.opendb
+/BitArray/.vs/BitArray/v14
+/BitArray/BitArray/Debug
+/BitArray/Debug
+/BitArray/ipch/BITARRAY-57650ba5
+*.db
